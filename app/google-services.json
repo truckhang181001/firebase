@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "854916266784",
+    "project_id": "fir-example-b8690",
+    "storage_bucket": "fir-example-b8690.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854916266784:android:300aa0d8debc0bd0edb545",
+        "android_client_info": {
+          "package_name": "com.truckhang1810.android.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854916266784-ejruauh6vohpsj5kdnn8r56s38k334dg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWivgnA-13Ot51dY9Qy64ve12QBSeGM9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854916266784-ejruauh6vohpsj5kdnn8r56s38k334dg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
